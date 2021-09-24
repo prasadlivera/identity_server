@@ -1,0 +1,12 @@
+C:\RLG\samples\identity_server\IdentityServer\Identity.Domain\bin\Debug\net5.0\Identity.Domain.deps.json
+C:\RLG\samples\identity_server\IdentityServer\Identity.Domain\bin\Debug\net5.0\Identity.Domain.dll
+C:\RLG\samples\identity_server\IdentityServer\Identity.Domain\bin\Debug\net5.0\ref\Identity.Domain.dll
+C:\RLG\samples\identity_server\IdentityServer\Identity.Domain\bin\Debug\net5.0\Identity.Domain.pdb
+C:\RLG\samples\identity_server\IdentityServer\Identity.Domain\obj\Debug\net5.0\Identity.Domain.csproj.AssemblyReference.cache
+C:\RLG\samples\identity_server\IdentityServer\Identity.Domain\obj\Debug\net5.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\RLG\samples\identity_server\IdentityServer\Identity.Domain\obj\Debug\net5.0\Identity.Domain.AssemblyInfoInputs.cache
+C:\RLG\samples\identity_server\IdentityServer\Identity.Domain\obj\Debug\net5.0\Identity.Domain.AssemblyInfo.cs
+C:\RLG\samples\identity_server\IdentityServer\Identity.Domain\obj\Debug\net5.0\Identity.Domain.csproj.CoreCompileInputs.cache
+C:\RLG\samples\identity_server\IdentityServer\Identity.Domain\obj\Debug\net5.0\Identity.Domain.dll
+C:\RLG\samples\identity_server\IdentityServer\Identity.Domain\obj\Debug\net5.0\ref\Identity.Domain.dll
+C:\RLG\samples\identity_server\IdentityServer\Identity.Domain\obj\Debug\net5.0\Identity.Domain.pdb
